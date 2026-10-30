@@ -1,0 +1,27 @@
+# This repository is documentation only.
+# Source code, data and private material must never be added here.
+*.py
+*.pyc
+*.pyd
+*.so
+*.exe
+*.dll
+*.ps1
+*.sh
+*.bat
+*.sqlite
+*.sqlite-*
+*.db
+*.jsonl
+*.parquet
+*.feather
+*.log
+*.pem
+*.key
+.env
+.env.*
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
